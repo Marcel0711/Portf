@@ -1,0 +1,16 @@
+[
+    {"icon":"SiHtml5", "name":"Html"},
+    {"icon": "SiCss3", "name": "Css"},
+    {"icon": "SiJavascript", "name": "JavaScript"},
+    {"icon": "SiTypescript", "name": "TypeScript"},
+    {"icon": "SiPhp", "name": "PHP"},
+    {"icon": "SiReact", "name": "React"}, 
+    {"icon": "SiVuedotjs", "name": "Vue"},
+    {"icon": "SiDotnet", "name": ".NET"}, 
+    {"icon": "SiSass", "name": "Sass"},
+    {"icon": "SiMysql", "name": "MySql"}, 
+    {"icon": "SiMariadb", "name": "MariaDB"},
+    {"icon": "SiReactrouter", "name": "React Router"},
+    {"icon": "SiNodedotjs", "name": "NodeJs"},
+    {"icon": "SiMongodb", "name": "MongoDB"}
+]

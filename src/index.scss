@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&display=swap');
+
+:root{
+  --color: rgb(217, 221, 224);
+  --background-color: rgba(21, 37, 41, 1);
+}
+
+*{
+  margin: 0;
+  box-sizing: border-box;
+  color: var(--color);
+  font-family: "Nunito Sans";
+}
+
+body{
+  background: radial-gradient(circle,rgb(53, 63, 69) 0%, rgba(21, 37, 41, 1) 100%);
+}
+
+nav, main{
+  max-width: 1440px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+main{
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+button, a{
+  padding: 0.5rem;
+  letter-spacing: 1px;
+  display: inline-block;
+  font-size: 1em;
+  background-color: rgba(0, 0, 0, 0.3);
+  cursor: pointer;
+  text-decoration: none;
+
+  @extend .outline;
+
+  svg{
+    height: 24px;
+    width: 24px;
+    display: block;
+  }
+
+  &:hover{
+    opacity: 0.5;
+  }
+}
+
+h1{
+  letter-spacing: 2px;
+  font-size: 2.2em;
+  line-height: 1.2;
+}
+
+h2{
+  letter-spacing: 2px;
+  font-size: 1.3em;
+  line-height: 1.2;
+}
+
+p{
+  letter-spacing: 1px;
+  font-size: 1em;
+  line-height: 1.1;
+}
+
+.outline{
+  border-radius: 8px;
+  border: 1px solid rgba(199, 198, 198, 0.1);
+  box-shadow: rgba(0, 0, 0, 0.3) 6px 6px 6px -3px;
+}

@@ -1,0 +1,21 @@
+nav{
+    padding: 1rem;
+    border-bottom: 1px solid white;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+
+    h1{
+        margin-right: auto;
+    }
+
+    > button{
+        background-color: transparent;
+        border: none;
+        box-shadow: none;
+
+        &:hover{
+            opacity: 1 !important;
+        }
+    }
+}

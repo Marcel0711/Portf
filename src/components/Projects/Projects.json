@@ -1,0 +1,86 @@
+[
+    {
+        "img": "./sites/japanese.png",
+        "title": "Japoński",
+        "repo": "https://github.com/Marcel0711/jp",
+        "site": "https://japanese-mp.netlify.app/"
+    },
+    {
+        "img": "./sites/manage.PNG",
+        "title": "Manage landing page",
+        "repo": "https://github.com/Marcel0711/Manage_langin_page",
+        "site": "https://marcel0711.github.io/Manage_langin_page"
+    },
+    {
+        "img": "./sites/space-tourism.PNG",
+        "title": "Space Tourism",
+        "repo": "https://github.com/Marcel0711/space_tourism",
+        "site": "https://marcel0711.github.io/space_tourism/"
+    },
+    {
+        "img": "./sites/countries.PNG",
+        "title": "Countries",
+        "repo": "https://github.com/Marcel0711/countries",
+        "site": "https://marcel0711.github.io/countries/"
+    },
+    {
+        "img": "./sites/insure.PNG",
+        "title": "Insure landing page",
+        "repo": "https://github.com/Marcel0711/insure",
+        "site": "https://marcel0711.github.io/insure/"
+    },
+    {
+        "img": "./sites/loopstudios.PNG",
+        "title": "Loopstudios landing page",
+        "repo": "https://github.com/Marcel0711/loopstudios_landing_page",
+        "site": "https://marcel0711.github.io/loopstudios_landing_page/"
+    },
+    {
+        "img": "./sites/base-apparel.PNG",
+        "title": "Base apparel",
+        "repo": "https://github.com/marcel0711/base_apparel/",
+        "site": "https://marcel0711.github.io/base_apparel/"
+    },
+    {
+        "img": "-",
+        "title": "Japanese server",
+        "repo": "https://github.com/Marcel0711/jp_server",
+        "site": "#"
+    },
+    {
+        "img": "./sites/clipboard.PNG",
+        "title": "Clipboard landing page",
+        "repo": "https://github.com/Marcel0711/Clipboard",
+        "site": "https://marcel0711.github.io/Clipboard/"
+    },
+    {
+        "img": "./sites/four-panel.PNG",
+        "title": "Four card section",
+        "repo": "https://github.com/Marcel0711/four_card_section",
+        "site": "https://marcel0711.github.io/four_card_section/"
+    },
+    {
+        "img": "./sites/advice.PNG",
+        "title": "Advice generator",
+        "repo": "https://github.com/Marcel0711/advice_generator",
+        "site": "https://marcel0711.github.io/advice_generator/"
+    },
+    {
+        "img": "./sites/article.PNG",
+        "title": "Article preview",
+        "repo": "https://github.com/Marcel0711/article_preview",
+        "site": "https://marcel0711.github.io/article_preview/"
+    },
+    {
+        "img": "./sites/rating.PNG",
+        "title": "Rating component",
+        "repo": "https://github.com/Marcel0711/rating_component",
+        "site": "https://marcel0711.github.io/rating_component/"
+    },
+    {
+        "img": "./sites/order.PNG",
+        "title": "Order summary",
+        "repo": "https://github.com/Marcel0711/order_summary",
+        "site": "https://marcel0711.github.io/order_summary/"
+    }
+]
