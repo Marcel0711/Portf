@@ -12,7 +12,7 @@ interface Props {
 export default function ProjectCard({title, image, site, repo}:Props) {
   return (
     <div className="card">
-        <img src={image !== "-" ? image : "/react.svg"} alt={title +" img"} className="card_image"/>
+        <img src={image !== "-" ? image : "./react.svg"} alt={title +" img"} className="card_image"/>
         <div className="card_info">
             <h2>{title}</h2>
         </div>

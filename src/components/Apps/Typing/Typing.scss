@@ -1,0 +1,36 @@
+.app_typing{
+    display: flex;
+    flex-direction: column;
+    row-gap: 1rem;
+
+    .score_box{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+
+    .template{
+        border: 1px solid white;
+        background-color: rgba(255, 255, 255, 0.1);
+        padding: 0.5rem;
+    }
+
+    textarea{
+        border: 1px solid white;
+        background-color: rgba(255, 255, 255, 0.1);
+        padding: 0.5rem;
+        resize: none;
+        min-height: 120px;
+        font-size: 16px;
+    }
+
+    .correct{
+        background-color: rgba(67, 222, 67, 0.2);
+        color: rgba(67, 222, 67);
+    }
+
+    .incorrect{
+        color: tomato;
+        background-color: rgba(255, 99, 71, 0.2);
+    }
+}
