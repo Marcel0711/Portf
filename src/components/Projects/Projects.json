@@ -6,6 +6,12 @@
         "site": "https://japanese-mp.netlify.app/"
     },
     {
+        "img": "./sites/library.PNG",
+        "title": "Book Library",
+        "repo": "https://github.com/Marcel0711/library",
+        "site": "https://marcel0711.github.io/library"
+    },
+    {
         "img": "./sites/manage.PNG",
         "title": "Manage landing page",
         "repo": "https://github.com/Marcel0711/Manage_langin_page",
